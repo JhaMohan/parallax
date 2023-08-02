@@ -94,3 +94,11 @@ section {
 .bg3 {
   background-image: url(sport-3.jpg);
 }
+
+footer {
+  background-color: bisque;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
